@@ -15,7 +15,7 @@ I am planning a personal project to build a video game in Unreal Engine to furth
 - [Waiter Code](https://github.com/SirKaza/WaiterCode-UnityVR) – 🕶️ Serious VR Unity Game
 - [Custom Engine](https://github.com/SirKaza/custom-engine) – ⚙️ C++ Geometry Viewer Engine
 - [Zork](https://github.com/SirKaza/MyZork) – 📝 C++ Text Adventure Game
-- [Video Codec](https://github.com/SirKaza/VideoCodec) – 🎬 Video Codec with Python
+- [Video Codec](https://github.com/SirKaza/VideoCodec) – 🎬 Python Video Codec
 
 ---
 
