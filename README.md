@@ -29,18 +29,6 @@ I love enjoying immersive stories across all media. Here are some of my favorite
 
 ---
 
-## 🏆 GitHub Information
-![GitHub Contributions](https://github-readme-stats.vercel.app/api?username=SirKaza&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SirKaza&layout=compact&theme=radical)  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SirKaza&theme=radical)
-
----
-
-## 🏅 Fun Badges & Stats
-![GitHub Achievement](https://github-profile-trophy.vercel.app/?username=SirKaza&theme=radical&margin-w=10&margin-h=10)
-
----
-
 ## 💬 Contact Me
 - Email: **13cvs6a@gmail.com**  
 - Twitter: [@SirKaza](https://x.com/SirKaza)  
