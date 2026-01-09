@@ -31,5 +31,4 @@ I love enjoying immersive stories across all media. Here are some of my favorite
 
 ## 💬 Contact Me
 - Email: **13cvs6a@gmail.com**  
-- Twitter: [@SirKaza](https://x.com/SirKaza)  
 - LinkedIn: [Marc Casanova](https://www.linkedin.com/in/marc-casanova-torrequebrada/)
