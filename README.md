@@ -1,11 +1,9 @@
 # Hi there! 👋
 I'm **Marc Casanova**, a software engineer and passionate gamer.  
 
-I'm currently at the final stages of a master's degree in AAA videogame programming in the UPC, where we are developing a custom engine and a game on top of it. I also have a Software Engineering degree in UB, where I learnt loads of other technologies and languages like Python, Java, NoSQL, VR, etc.
+I hold a Master's Degree in AAA Video Game Programming from UPC, where I contributed to the development of a custom game engine and a video game built on top of it. I also earned a Bachelor's Degree in Software Engineering from UB, gaining experience in a variety of technologies and fields such as Python, Java, NoSQL databases, and VR development.
 
-I love creating and exploring video games, watching series, anime, and movies. 🎮📺🍿
-
-I am planning a personal project to build a video game in Unreal Engine to further expand my knowledge and gain experience with GAS.
+Currently, I collaborate with an indie game studio on a Unreal Engine project using Blueprints as a side activity to keep improving my game development skills.
 
 ---
 
@@ -18,6 +16,8 @@ I am planning a personal project to build a video game in Unreal Engine to furth
 - [Video Codec](https://github.com/SirKaza/VideoCodec) – 🎬 Python Video Codec
 
 ---
+
+I love creating and exploring video games, watching series, anime, and movies. I also like going to the gym in my free time.
 
 ## 🌟 My Favorites
 I love enjoying immersive stories across all media. Here are some of my favorites:  
@@ -32,3 +32,4 @@ I love enjoying immersive stories across all media. Here are some of my favorite
 ## 💬 Contact Me
 - Email: **13cvs6a@gmail.com**  
 - LinkedIn: [Marc Casanova](https://www.linkedin.com/in/marc-casanova-torrequebrada/)
+- Portfolio: [Projects](https://marc-casanova.my.canva.site/)
